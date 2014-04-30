@@ -21,6 +21,6 @@
   "license": "BSD",
   "dependencies": {
     "through": "~2.3.4",
-    "falafel": "~0.2.1"
+    "falafel": "0.3.1"
   }
 }
